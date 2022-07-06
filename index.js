@@ -13,14 +13,14 @@ const resultadoDaSubtracao = subtracao(2,1)
 console.log(resultadoDaSubtracao)
 
 function divisao(numero1, numero2) {
-    const divisao = numero1 / numero2
+    const divisao = numero1 / numero2;
     return 'A divisão dos dois números é: ' + divisao;
 }
 const resultadoDaDivisao = divisao(10,3)
 console.log(resultadoDaDivisao)
 
 function multiplicacao(numero1, numero2) {
-    const multiplicacao = numero1 * numero2
+    const multiplicacao = numero1 * numero2;
     return 'A multiplicação dos dois números é: ' + multiplicacao;
 }
 const resultadoDaMultiplicacao = multiplicacao(5,8)
