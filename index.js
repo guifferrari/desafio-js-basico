@@ -21,7 +21,7 @@ console.log(resultadoDaDivisao)
 
 function multiplicacao(numero1, numero2) {
     const multiplicacao = numero1 * numero2
-    return 'A multiplicação dos dois números é: ' + multiplicacao
+    return 'A multiplicação dos dois números é: ' + multiplicacao;
 }
 const resultadoDaMultiplicacao = multiplicacao(5,8)
 console.log(resultadoDaMultiplicacao)
